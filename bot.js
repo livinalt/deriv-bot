@@ -22,13 +22,22 @@ const CONFIG = {
   // Candle timeframe: 60 = 1min, 300 = 5min
   CANDLE_INTERVAL: 60,
 
-  // Strategy parameters
-  EMA_FAST: 9,
-  EMA_SLOW: 21,
-  RSI_PERIOD: 14,
-  RSI_LOWER: 30,
-  RSI_UPPER: 70,
+  // Strategy parameters 5minutes 
+  // EMA_FAST: 9,
+  // EMA_SLOW: 21,
+  // RSI_PERIOD: 14,
+  // RSI_LOWER: 30,
+  // RSI_UPPER: 70,
+  // RSI_MIDLINE: 50,
+
+    // Strategy parameters 1minutes 
+  EMA_FAST: 21,
+  EMA_SLOW: 55,
+  RSI_PERIOD: 21,
+  RSI_LOWER: 40,
+  RSI_UPPER: 60,
   RSI_MIDLINE: 50,
+
 
   // Risk management
   ACCOUNT_BALANCE: 10,

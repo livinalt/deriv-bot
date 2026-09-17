@@ -884,3 +884,35 @@
 [2026-09-16T21:10:00.588Z] [10:10:00 PM] EMA fast=45438.74 slow=45363.72 RSI=61.7
 [2026-09-16T23:00:01.775Z] 
 🔄 Daily reset — counters cleared
+[2026-09-16T23:50:36.129Z] ═══════════════════════════════════════════
+[2026-09-16T23:50:36.162Z]   DERIV VIX 75 BOT — RSI + EMA Strategy
+[2026-09-16T23:50:36.163Z] ═══════════════════════════════════════════
+[2026-09-16T23:50:36.166Z] Symbol: R_75
+[2026-09-16T23:50:36.167Z] Account type: demo
+[2026-09-16T23:50:36.167Z] API: New Deriv OTP-based WebSocket
+[2026-09-16T23:50:36.170Z] Timeframe: 60s
+[2026-09-16T23:50:36.173Z] Risk: 5% ($0.50) per trade
+[2026-09-16T23:50:36.175Z] Multiplier: x50
+[2026-09-16T23:50:36.177Z] Max daily trades: 6
+[2026-09-16T23:50:36.178Z] Stop after 2 consecutive losses
+[2026-09-16T23:50:36.178Z] ═══════════════════════════════════════════
+
+[2026-09-16T23:50:36.181Z] ⚠️  Google Sheets not configured — skipping
+[2026-09-16T23:50:36.183Z] 🔍 Looking up your Options trading account...
+[2026-09-16T23:50:37.777Z] ✅ Account: DOT93074967 | Type: demo | Balance: $10000.00
+[2026-09-16T23:50:37.783Z] 🔑 Requesting OTP...
+[2026-09-16T23:50:38.317Z] Connecting to WebSocket...
+[2026-09-16T23:50:39.364Z] ✅ Connected & authenticated
+[2026-09-16T23:50:39.372Z] 📡 Subscribed to R_75 60s candles
+[2026-09-16T23:50:39.793Z] 📊 Loaded 100 historical candles
+[2026-09-16T23:50:40.595Z] [12:50:40 AM] EMA fast=45777.64 slow=45753.00 RSI=56.0
+[2026-09-16T23:51:00.593Z] [12:51:00 AM] EMA fast=45788.26 slow=45760.15 RSI=56.8
+[2026-09-16T23:52:00.376Z] [12:52:00 AM] EMA fast=45820.96 slow=45778.33 RSI=61.3
+[2026-09-16T23:53:00.356Z] [12:53:00 AM] EMA fast=45826.29 slow=45784.41 RSI=58.7
+[2026-09-16T23:54:00.439Z] [12:54:00 AM] EMA fast=45841.90 slow=45795.50 RSI=60.5
+[2026-09-16T23:55:00.398Z] [12:55:00 AM] EMA fast=45866.62 slow=45811.28 RSI=64.2
+[2026-09-16T23:56:00.392Z] [12:56:00 AM] EMA fast=45875.31 slow=45820.19 RSI=61.6
+[2026-09-16T23:57:00.353Z] [12:57:00 AM] EMA fast=45880.28 slow=45827.33 RSI=60.6
+[2026-09-16T23:58:00.335Z] [12:58:00 AM] EMA fast=45857.24 slow=45820.86 RSI=51.9
+[2026-09-16T23:59:00.360Z] [12:59:00 AM] EMA fast=45812.59 slow=45802.84 RSI=42.3
+[2026-09-17T00:00:00.681Z] [1:00:00 AM] EMA fast=45802.39 slow=45799.33 RSI=44.5

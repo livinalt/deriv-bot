@@ -20,7 +20,7 @@ const CONFIG = {
   SYMBOL: "R_75",
 
   // Candle timeframe: 60 = 1min, 300 = 5min
-  CANDLE_INTERVAL: 300,
+  CANDLE_INTERVAL: 60,
 
   // Strategy parameters
   EMA_FAST: 9,
